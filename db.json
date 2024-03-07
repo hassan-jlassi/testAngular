@@ -1,0 +1,60 @@
+{
+  "Stage": [
+    {
+      "id": 1,
+      "titre": "",
+      "description": "aaaaa",
+      "entreprise": "aaaa",
+      "disponible": "true"
+    },
+    {
+      "id": 1,
+      "titre": "",
+      "description": "aaaaa",
+      "entreprise": "aaaa",
+      "disponible": "true"
+    },
+    {
+      "id": 1,
+      "titre": "",
+      "description": "aaaaa",
+      "entreprise": "aaaa",
+      "disponible": "true"
+    },
+    {
+      "id": 1,
+      "title": "aaaasssssssssssssssssssssss",
+      "description": "aaaaa",
+      "entreprise": "aaaa",
+      "disponible": "true"
+    },
+    {
+      "id": 1,
+      "titre": "aaaasssssssssssssssssssssss",
+      "description": "aaaaa",
+      "entreprise": "aaaa",
+      "disponible": "true"
+    },
+    {
+      "id": 1,
+      "titre": "aaaasssssssssssssssssssssss",
+      "description": "aaaaa",
+      "entreprise": "aaaa",
+      "disponible": "true"
+    },
+    {
+      "id": 4,
+      "titre": "vfgbhnj,",
+      "description": "gg",
+      "entreprise": "v",
+      "disponible": "b"
+    },
+    {
+      "id": 8,
+      "titre": "bhg",
+      "description": "g",
+      "entreprise": "gg",
+      "disponible": "g"
+    }
+  ]
+}

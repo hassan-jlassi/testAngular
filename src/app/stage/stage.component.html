@@ -1,0 +1,19 @@
+
+
+<table class="table" border="1">
+  <tr>
+    <th>ID</th>
+    <th>titre</th>
+    <th>description</th>
+    <th>entreprise</th>
+    <th>disponible</th>
+  </tr>
+  <tr *ngFor="let p of listStage, let i=index">
+      <td>{{p.id}}</td>
+      <td>{{p.titre}}</td>
+      <td>{{p.description}}</td>
+      <td>{{p.entreprise}}</td>
+      <td>{{p.disponible}}</td>
+    <td><button class="btn btn-danger" (click)="supp(p.id)">Delete</button></td>
+  </tr>
+</table>
